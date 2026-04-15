@@ -1,0 +1,42 @@
+Productivity Tools for Technical Reporting — LMS Content Outline
+==================================================================
+
+Module: Excel for Technical Analysis and Reporting
+  Lesson: Data Management and Analysis in Excel
+    SCORM: Data Management and Analysis in Excel
+    Quiz: Data Management and Analysis in Excel
+    Quiz Answer Key: Data Management and Analysis in Excel
+    Instructor Guide: Data Management and Analysis in Excel
+    Lab: Clean the OrbitCo Incident Export
+    Lab Instructor Guide: Clean the OrbitCo Incident Export
+    Lab: Build the OrbitCo KPI Summary
+    Lab Instructor Guide: Build the OrbitCo KPI Summary
+  Lesson: Data Visualization and Operational Dashboards
+    SCORM: Data Visualization and Operational Dashboards
+    Quiz: Data Visualization and Operational Dashboards
+    Quiz Answer Key: Data Visualization and Operational Dashboards
+    Instructor Guide: Data Visualization and Operational Dashboards
+    Lab: Build the OrbitCo Operational Dashboard
+    Lab Instructor Guide: Build the OrbitCo Operational Dashboard
+    Exercise: Chart Critique
+    Exercise Instructor Guide: Chart Critique
+
+Module: PowerPoint for Technical Presentations
+  Lesson: Presentation Design Principles
+    SCORM: Presentation Design Principles
+    Quiz: Presentation Design Principles
+    Quiz Answer Key: Presentation Design Principles
+    Instructor Guide: Presentation Design Principles
+    Lab: Slide Rebuild
+    Lab Instructor Guide: Slide Rebuild
+    Lab: Build an OrbitCo System Diagram
+    Lab Instructor Guide: Build an OrbitCo System Diagram
+  Lesson: Presenting Data and Recommendations
+    SCORM: Presenting Data and Recommendations
+    Quiz: Presenting Data and Recommendations
+    Quiz Answer Key: Presenting Data and Recommendations
+    Instructor Guide: Presenting Data and Recommendations
+    Exercise: The OrbitCo 5-Minute Capstone Briefing
+    Exercise Instructor Guide: The OrbitCo 5-Minute Capstone Briefing
+    Exercise: Peer Feedback Round
+    Exercise Instructor Guide: Peer Feedback Round
